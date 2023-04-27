@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">cart</string>
+    <string name="shopping_head">Shopping Cart</string>
+    <string name="item1_head">carrot</string>
+    <string name="item1Qty">quantity                 x</string>
+    <string name="item1Price">250.00</string>
+    <string name="item2heading">Poteto</string>
+    <string name="item2Qty" />
+    <string name="item2qty">quantity                 x</string>
+    <string name="item2price">375.00</string>
+    <string name="totalval">Total:-          625.00</string>
+    <string name="btnpurches">Purches</string>
+    <string name="loginhead">login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="userhint">Enter Username</string>
+    <string name="passhint">Enter Password</string>
+    <string name="forgetpw">Forget password?</string>
+    <string name="selreg">Seller Register</string>
+    <string name="buyreg">Buyer Register</string>
+    <string name="btnadmin">Login as admin</string>
+    <string name="btnseller">login as seller</string>
+    <string name="btnbuyer">login as buyer</string>
+    <string name="navtopic">Navigation</string>
+    <string name="navprofile">Profile</string>
+    <string name="navhome">Home</string>
+    <string name="navpayment">Payment</string>
+    <string name="navinventory">Inventory</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topicWidth">412dp</dimen>
+    <dimen name="topicHeight">51dp</dimen>
+    <dimen name="buttonWidth">398dp</dimen>
+    <dimen name="buttonHeight">53dp</dimen>
+    <dimen name="topicText">24sp</dimen>
+</resources>
